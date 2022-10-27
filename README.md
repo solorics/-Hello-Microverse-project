@@ -1,19 +1,19 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
 > Description the project.
-
-
+> Add html and css file
+> Add h1 tag "Hello Microverse!
 ## Built With
-
+## HTML & CSS
 - Major languages
 - Frameworks
 - Technologies used
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](http://127.0.0.1:5500/index.html)
 
 
 ## Getting Started
@@ -40,17 +40,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Solorics**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/solorics)
+- Twitter: [@twitterhandle](https://twitter.com/Solorics2)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/solomon-opeyemi-0427a6155/)
 
 ## 🤝 Contributing
 
